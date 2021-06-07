@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ncsala
 - 👀 I’m interested in learn a lot of things.
 - 🌱 I’m currently learning full-stack software engineering at Holberton School.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 ncsala/ncsala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
