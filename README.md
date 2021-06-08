@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ncsala
+- 👋 Hi, I’m @ncsala Nicolás Cáceres Sala
 - 👀 I’m interested in learn a lot of things.
 - 🌱 I’m currently learning full-stack software engineering at Holberton School.
 
