@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ncsala Nicolás Cáceres Sala
-- 👀 I am interested in learning new things all the time.
+- 👀 I'm passionate about learning new things all the time.
 - 🌱 I’m currently learning full-stack developer at CoderHouse.
 
 🛠 Skills
