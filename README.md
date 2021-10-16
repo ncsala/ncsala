@@ -4,7 +4,7 @@
 
 🛠 Skills
 
-- HTML / CSS / JavaScript
+- HTML / CSS / JavaScript / Bootstrap
 - Python / Java / MySQL / Microsft SQL Server
 - C / Bash
 
