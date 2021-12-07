@@ -14,8 +14,7 @@
 ncsala/ncsala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
+<h1 align="center">Hi 👋, I'm Nicolás Cáceres Sala</h1>
 <h3 align="center">A passionate full stack developer from Uruguay</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ncsala&label=Profile%20views&color=0e75b6&style=flat" alt="ncsala" /> </p>
