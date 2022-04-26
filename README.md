@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ncsala&label=Profile%20views&color=0e75b6&style=flat" alt="ncsala" /> </p>
 
-- 🔭 I’m currently working on [python-project-coderhouse](https://github.com/ncsala/python-project-coderhouse)
+- 🔭 I’m currently working on [individual_project-henry](https://github.com/ncsala/individual_project-henry)
 
 - 📫 How to reach me **ncsala@gmail.com**
 
