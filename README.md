@@ -9,9 +9,7 @@
 <img width="100%" height = "250px" src="https://miro.medium.com/max/1240/1*mmwT4Dh8xU4nd5F60MfzjQ.jpeg" alt="cover" />
 </div>
 
-- 🔭 I’m currently working on [individual_project-henry](https://github.com/ncsala/individual_project-henry)
-- 🌱 I’m currently learning **NextJS and TypeScript**
-- 📫 How to reach me **ncsala@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,9 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ncsala&show_icons=true&locale=en" alt="ncsala" /></p>
 
 
-
-
-
 <!-- <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
@@ -43,18 +38,15 @@
 
 </p> -->
 
-
-
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />.
 
+- 🔭 I’m currently working on [individual_project-henry](https://github.com/ncsala/individual_project-henry)
 
-- 🔭 I’m currently working on My Blog, Github Project
+- 🌱 I’m currently learning **NextJS and TypeScript**
 
-- 🌱 I’m currently learning Data Science,AWS,Data Engineering 
-
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
+- 📫 How to reach me **ncsala@gmail.com**
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
 
