@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ncsala&label=Profile%20views&color=0e75b6&style=flat" alt="ncsala" /> </p>
 
 <div align="center">
-<img width="100%" height = "600px" src="https://img.freepik.com/vector-gratis/ilustracion-concepto-mecanografia-codigo_114360-3581.jpg?w=740&t=st=1654741671~exp=1654742271~hmac=0f8e347dfcdde64686030aaba85ef7c0ae6040efaa870e9772f01bad5228d0aa" alt="cover" />
+<img width="100%" height = "600px" src="https://miro.medium.com/max/1400/0*Ila6DkvrozZFs43N.png" alt="cover" />
 </div>
 
 <!-- <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
