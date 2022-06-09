@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolás Cáceres Sala</h1>
 <h3 align="center">A passionate full stack developer from Uruguay</h3>
+<div size='20px'>Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ncsala&label=Profile%20views&color=0e75b6&style=flat" alt="ncsala" /> </p>
 
@@ -40,8 +42,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=.)
 
 </p>
-<div size='20px'> Hi! My name is . Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+
+
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
