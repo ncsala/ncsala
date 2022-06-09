@@ -52,7 +52,7 @@
 <a href="https://www.linkedin.com/in/nicol%C3%A1s-c%C3%A1ceres-sala-178562213" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicol%c3%a1s-c%c3%a1ceres-sala-178562213/" height="30" width="40" /></a>
 </p>
 
-<h2> My GitHub Stats <img height = "50px" src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> My GitHub Stats <img height = "40px" src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ncsala&show_icons=true&locale=en&layout=compact" alt="ncsala" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ncsala&show_icons=true&locale=en" alt="ncsala" /></p>
