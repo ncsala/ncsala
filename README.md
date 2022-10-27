@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on [individual_project-henry](https://github.com/ncsala/individual_project-henry)
 
-- 🌱 I’m currently learning **NextJS and TypeScript**
+- 🌱 I’m currently learning **NestJS and TypeScript**
 
 - 📫 How to reach me **ncsala@gmail.com**
 
