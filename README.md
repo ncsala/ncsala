@@ -23,13 +23,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on [individual_project-henry](https://github.com/ncsala/individual_project-henry)
-
-- 🌱 I’m currently learning **NestJS and TypeScript**
+- 🌱  I’m currently learning **Go, Gin, and everything related to the Go ecosystem**
 
 - 📫 How to reach me **ncsala@gmail.com**
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source
+- 💬 Talk to me about **Python, JavaScript, Go, Freelancing Opportunities, and Open Source**
 
 <h2> Skills <img height = "50px" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
